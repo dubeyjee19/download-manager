@@ -1,0 +1,18 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+		<file>icons/browse.png</file>
+		<file>icons/save.png</file>
+		<file>icons/download.png</file>
+		<file>icons/downloader.png</file>
+		<file>icons/home.png</file>
+		<file>icons/imj.png</file>
+		<file>icons/mainicon.png</file>
+		<file>icons/playlist.png</file>
+		<file>icons/settings.png</file>
+		<file>icons/Settings-512.png</file>
+		<file>icons/settingsapple.png</file>
+		<file>icons/youtube.png</file>
+		<file>icons/mainicon1.jpg</file>
+	</qresource>
+</RCC>	
